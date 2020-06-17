@@ -1,0 +1,57 @@
+
+body{  
+margin: 0px;
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px; 
+margin-left: 0px; 
+ }  
+.container{  
+width: 300px;  
+height: 300px;  
+background-color: teal;  
+margin-top: 150px;  
+margin-left: 45%;  
+border-radius: 50%; 
+
+}
+.intro{color: thistle; font-size: 40px;}
+.card{ background-color: yellow;width: 45px; height: 50px;}
+.card-text{font-size: 21px;color: white;padding: 45px;}
+.square{
+    height: 200px;
+    width: 200px;
+    background-color:green;}
+    .square {
+        height: 200px;
+        width: 200px;
+        background-color:teal;}
+        .square {
+            height: 200px;
+            width: 200px;
+            background-color:tomato;}
+            .top{
+                background-color:e3fdfd;
+                height:200px;
+                width:200px;
+                padding:20px;
+                border:solid;
+                border-width:10px;  
+              }
+              
+              .middle{
+                background-color:red;
+                height:200px;
+                width:200px;
+                border:solid;
+                border-width:20px;
+                margin-left:260px;
+              }
+              .bottom{
+                background-color:blue;
+                height:200px;
+                width:200px;
+                border:solid;
+                border-width:30px;
+                margin-left:500px;
+              }
